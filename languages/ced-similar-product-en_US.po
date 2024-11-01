@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: similar products\n"
+"POT-Creation-Date: 2017-01-02 12:14+0530\n"
+"PO-Revision-Date: 2017-01-02 12:14+0530\n"
+"Last-Translator: \n"
+"Language-Team: CedCommerce <plugins@cedcommerce.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ced-similar-products-main.php:103
+msgid ""
+"WooCommerce is not activated. Please install WooCommerce to use the Shipping "
+"Delivery Date Management with gift message extension !!!"
+msgstr ""
+
+#: class/ced_similar-products-class.php:63
+msgid "Setting"
+msgstr ""
+
+#: class/ced_similar-products-class.php:68
+msgid "Title"
+msgstr ""
+
+#: class/ced_similar-products-class.php:69
+msgid "Heading under which similar products shown"
+msgstr ""
+
+#: class/ced_similar-products-class.php:76
+#: class/ced_similar-products-class.php:77
+msgid "No. of similar products display in list"
+msgstr ""
+
+#: class/ced_similar-products-class.php:84
+msgid "Custom CSS"
+msgstr ""
+
+#: class/ced_similar-products-class.php:85
+msgid "Custom CSS for output"
+msgstr ""
+
+#: class/ced_similar-products-class.php:92
+msgid "Similar Products Visibility"
+msgstr ""
+
+#: class/ced_similar-products-class.php:93
+msgid "Shop Page"
+msgstr ""
+
+#: class/ced_similar-products-class.php:102
+msgid "Product Detail Page"
+msgstr ""
+
+#: class/ced_similar-products-class.php:111
+msgid "Cart Page"
+msgstr ""
+
+#: class/ced_similar-products-class.php:139
+#: class/ced_similar-products-class.php:152
+#: class/ced_similar-products-class.php:173
+#: class/ced_similar-products-class.php:220
+#: class/ced_similar-products-class.php:347
+#: class/ced_similar-products-class.php:424
+msgid "Similar Products"
+msgstr ""
+
+#: class/ced_similar-products-class.php:187
+msgid ""
+"Similar products which you recommend instead of the currently viewed "
+"product, for example, products that are more profitable or better quality or "
+"more expensive."
+msgstr ""
